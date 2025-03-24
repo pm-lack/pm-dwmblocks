@@ -1,3 +1,6 @@
+# deployed by pm-larbs
+https://github.com/pm-lack/pm-larbs
+
 # dwmblocks
 
 Modular status bar for dwm written in c.
